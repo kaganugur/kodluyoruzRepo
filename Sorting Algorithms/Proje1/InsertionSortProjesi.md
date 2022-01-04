@@ -10,9 +10,9 @@
 -BigO: O(n^2)
 ***
 ## 3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
--Average Case: $n^{2}$ <br>
--Worst Case: $n^{2}$ <br>
--Best Case: $n$ <br>
+-Average Case: n^2 <br>
+-Worst Case: n^2 <br>
+-Best Case: n 
 ***
 ## 4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 -Average Case
